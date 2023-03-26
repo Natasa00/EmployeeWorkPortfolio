@@ -173,7 +173,7 @@ footer {
 }
 
 #Project-1::before {
-    background-image: url("../../images/surfboard.jpeg");
+    background-image: url("../images/surfboard.jpeg");
     content: "";
     position: absolute;
     top: 0;
@@ -198,7 +198,7 @@ footer {
 }
 
 #Project-2::before {
-    background-image: url("../../images/weather.webp");
+    background-image: url("../images/weather.webp");
     content: "";
     position: absolute;
     top: 0;
@@ -223,7 +223,7 @@ footer {
 }
 
 #Project-3::before {
-    background-image: url("../../images/stock.jpeg");
+    background-image: url("../images/stock.jpeg");
     content: "";
     position: absolute;
     top: 0;
