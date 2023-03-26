@@ -4,4 +4,4 @@ This repository contains HTML and CSS code. For my Employer Work Portfolio it co
 * Portfolio 
 * Contact Me
 
-![picture alt](./images/Natasa%20work%20portfolio.png)
+![picture alt](./assets/images/Natasa%20work%20portfolio.png)
